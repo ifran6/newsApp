@@ -47,7 +47,7 @@ include('inc_files/min_header.php')?>
     </div>
 
     <div class="grid-card_4">
-        <img src="assets/images/bg_img.png" alt="Latest images" class="grid-img">
+        <img src="assets/images/bg_img.png" alt="Latest images" class="grid-img img-4">
     </div>
 
     </div>
